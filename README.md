@@ -2,7 +2,7 @@ Hallo, ich bin Björn Riemer
 
 ## Inhaltsverzeichnis
 1. [Über mich](#über-mich)
-2. [Zertifikate](#zertifikate)
+2. [Zertifikate](#zertifikate--qualifikationen-laufendabgeschlossen)
 3. [Kontakt](#kontakt)
 4. [Letzte Projekte](#letzte-projekte)
 
