@@ -51,3 +51,8 @@ Mein Ziel: mich kontinuierlich weiterzuentwickeln und mein Wissen in praxisnahen
 💼 LinkedIn: *folgt in Kürze*  
 
 ---
+
+## Letzte Projekte
+*(Aktuell in Arbeit – hier erscheinen bald meine ersten Projekte aus der Umschulung)*  
+- **Projekt 1:** [Platzhalter – Titel des Projekts]  
+- **Projekt 2:** [Platzhalter – Titel des Projekts]
