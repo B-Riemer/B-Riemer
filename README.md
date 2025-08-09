@@ -1,5 +1,12 @@
 Hallo, ich bin Björn Riemer  
 
+## Inhaltsverzeichnis
+1. [Über mich](#über-mich)
+2. [Zertifikate](#zertifikate)
+3. [Kontakt](#kontakt)
+4. [Letzte Projekte](#letzte-projekte)
+
+---
 
 ## Über mich  
 Ich befinde mich aktuell in einer zweijährigen Umschulung zum Fachinformatiker für Anwendungsentwicklung (IHK) mit Schwerpunkt auf moderner Softwareentwicklung und zukunftsorientierten Technologien.  
