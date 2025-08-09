@@ -1,42 +1,46 @@
-Björn Riemer - Umschüler Fachinformatiker Anwendungsentwicklung (IHK)
+Hallo, ich bin Björn Riemer  
 
 
-Positioning Statement  
+## Über mich  
+Ich befinde mich aktuell in einer zweijährigen Umschulung zum Fachinformatiker für Anwendungsentwicklung (IHK) mit Schwerpunkt auf moderner Softwareentwicklung und zukunftsorientierten Technologien.  
+Mit Führungserfahrung aus über 15 Jahren in sicherheitsrelevanten und organisatorischen Positionen sowie einem starken Hintergrund in Fitness- und Sportmanagement verbinde ich Disziplin, strategisches Denken und technisches Interesse.  
+Mein Ziel: mich kontinuierlich weiterzuentwickeln und mein Wissen in praxisnahen Projekten einzusetzen – mit einem besonderen Interesse an den Bereichen Künstliche Intelligenz, Cloud-Lösungen und moderner Webentwicklung.  
 
-Umschüler Fachinformatiker Anwendungsentwicklung (IHK) mit Fokus auf KI-gestützte Softwarelösungen und moderner Webentwicklung. Bringt über 12 Jahre Führungserfahrung und praxisnahe Entscheidungsstärke mit – mit dem langfristigen Ziel, sich in Richtung AI Solution Engineering weiterzuentwickeln. 
+---
 
- 
+## Zertifikate & Qualifikationen (laufend/abgeschlossen)  
+- Professional Scrum Master I (PSM I)  
+- PCAP – Certified Associate in Python Programming  
+- AWS Certified Cloud Practitioner (CLF-C02)  
+- Oracle Certified Foundations Associate Java (1Z0-811)  
+- Grundlagen Künstliche Intelligenz (2 Bausteine)  
+- PHP-Programmierung & WordPress-Entwicklung  
+- Grundlagen Cloud Computing & Windows Server  
+- Netzwerk- & Servergrundlagen  
 
-Kurzbio  
+---
 
-Ich befinde mich in einer zweijährigen Umschulung zum Fachinformatiker für Anwendungsentwicklung (IHK) mit dem Ziel, mich langfristig im Bereich AI Solution Engineering zu spezialisieren. Mein Fokus liegt auf Python-gestützter Softwareentwicklung, Datenverarbeitung, Cloud-Integration und KI-gestützten Automatisierungslösungen. 
-Zusätzlich zu den IHK-Inhalten absolviere ich international anerkannte Zertifizierungen wie Professional Scrum Master I, PCAP Python, AWS Certified Cloud Practitioner und Oracle Certified Java Foundations. 
-Mit über 12 Jahren Erfahrung in Leitungsfunktionen – vom militärischen Führungspersonal bis hin zur Studioleitung in der Fitnessbranche – verbinde ich technische Lernbereitschaft mit Umsetzungsstärke und strategischem Denken. 
-Mein Ziel: Technologien mit echtem Impact zu entwickeln – verständlich, skalierbar und anwendungsnah. 
+## Tech-Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
 
- 
+---
 
-Tech-Stack  
+## GitHub-Statistiken  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=B-Riemer&show_icons=true&theme=default)  
 
-Frontend: HTML5, CSS3, JavaScript, WordPress 
-Backend: Python (PCAP-Level), PHP (Grundlagen), Java (OCFA-Level), SQL (relational, 2x vertieft), UML 
-KI & Automation: Grundlagen Künstliche Intelligenz, Python-Tools, einfache Automatisierungen 
-Cloud & Infrastruktur: AWS (Cloud Practitioner-Level), Grundlagen Cloud Computing, Netzwerk & Server, Windows Server 
-Projektmanagement & Methodik: Scrum (inkl. PSM-I-Zertifizierung), agile Softwareentwicklung, Businessprozesse (WiSo) 
+---
 
- 
+## Kontakt  
+📧 E-Mail: [ai@b-riemer.dev](mailto:ai@b-riemer.dev)  
+🌐 Website: [b-riemer.dev](https://b-riemer.dev)  
+📍 Hamburg, Deutschland 
+💼 LinkedIn: *folgt in Kürze*  
 
-Call-to-Action / Profiltext-Kürzel (für LinkedIn, GitHub, Portfolio) 
-
-Aktuell auf der Suche nach einer spannenden Praktikumsstelle (ab dem 12.10.2026, im Raum Hamburg). 
-Mein Ziel: Teil eines motivierten Entwicklerteams zu werden, das echten Code baut – sauber, wartbar, anwendungsnah. 
-Let’s connect! 
-
- 
-
-Platzhalter (für die nächsten Phasen) 
-
-📎 GitHub-Link (noch zu erstellen) 
-🚀 Hugging Face Demo-Link (kommt in Phase 2) 
-🌐 Portfolio-Website (Phase 4) 
-📩 E-Mail / LinkedIn-Profil (zum Einbetten) 
+---
