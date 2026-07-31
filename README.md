@@ -33,8 +33,8 @@ Before switching to software, I spent **15+ years in leadership roles**. That ba
 |---|---|---|---|
 | **[Iron Fortress](https://github.com/B-Riemer/iron-fortress-system)** | Next.js · Tailwind v4 · Supabase · Stripe | Full-stack SaaS architecture: auth, database design, and real payment integration | [↗ Live](https://iron-fortress-system.vercel.app) |
 | **[PCAP Trainer](https://github.com/B-Riemer/pcap-trainer-web)** | Next.js 15 · TypeScript · SQLite | Self-built exam trainer for the PCAP certification — question bank, scoring, persistence | [↗ Live](https://pcap-trainer-web.vercel.app) |
-| **[Cyberpunk Portfolio Hub](https://github.com/B-Riemer/cyberpunk-portfolio-hub)** | Next.js 16 · TypeScript | Modern App-Router patterns, interactive UI, and deployment pipeline | [↗ Live](https://b-riemer.github.io/cyberpunk-portfolio-hub/) |
-| **[React Chatbot](https://github.com/B-Riemer/React-Chatbot-Project)** | React · JavaScript | Conversational UI and API state handling | |
+| **[Cyberpunk Portfolio Hub](https://github.com/B-Riemer/cyberpunk-portfolio-hub)** | Next.js 16 · OpenAI · Prisma | A RAG chatbot I built from the primitives up: embeddings, a hand-written vector store, cosine retrieval | [↗ Live](https://b-riemer.github.io/cyberpunk-portfolio-hub/) |
+| **[React Chatbot](https://github.com/B-Riemer/React-Chatbot-Project)** | React 19 · Vite | Conversational UI and API state handling | [↗ Live](https://b-riemer.github.io/React-Chatbot-Project/) |
 
 > Each project README documents architecture decisions, trade-offs and lessons learned — not just setup steps.
 
