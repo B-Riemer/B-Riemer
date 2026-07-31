@@ -1,0 +1,14 @@
+<svg width="960" height="64" viewBox="0 0 960 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="agent.credentials()">
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="260" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <style>text { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }</style>
+  </defs>
+  <rect width="960" height="64" rx="12" fill="#0d1424"/>
+  <rect x="0.5" y="0.5" width="959" height="63" rx="11.5" stroke="#ffffff" stroke-opacity="0.08"/>
+  <text x="36" y="40" font-size="21" font-weight="700"><tspan fill="#22d3ee">&#10095; </tspan><tspan fill="#7dd3fc">agent</tspan><tspan fill="#8b95b5">.</tspan><tspan fill="#c084fc">credentials</tspan><tspan fill="#8b95b5">(</tspan><tspan fill="#a5f3a5"></tspan><tspan fill="#8b95b5">)</tspan></text>
+  <text x="924" y="42" font-size="26" font-weight="800" fill="#ffffff" fill-opacity="0.07" text-anchor="end">04</text>
+  <rect x="36" y="52" width="200" height="2.5" rx="1.25" fill="url(#acc)"/>
+</svg>
